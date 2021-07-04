@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keys>
+  <Key label="PROJECT_REG_NO" table="TT_PPROJECT_REG" name="ProjectRegistrationNumber">
+  </Key>
+  <Key label="PROMOTER_NAME" table="TL_PROMOTER_DETAILS" name="PromoterName">
+  </Key>
+   <Key label="STATUS" table="TT_PPROJECT_REG" name="ProjectStatus">
+  </Key>
+  <Key label="REG_TYPE" table="TT_PPROJECT_REG" name="RegistrationType">
+  </Key>
+  <!--<Key label="Physician_IsProcedurePerformOutsideHospital" table="PrimaryAppPhysician" name="IsProcedurePerformOutsideHospital">
+  </Key>-->
+
+</Keys>
